@@ -1,1 +1,3 @@
-cfsaafaffcssfs
+public main{
+    
+}
