@@ -10,7 +10,7 @@ public class prog19 {
         int num = sc.nextInt();
         // sc.close();
 
-        int orrN = num;
+        int orN = num;
         int sum = 0;
         int digitC = (int) Math.log10(num) + 1;
 
@@ -20,10 +20,10 @@ public class prog19 {
             num /= 10;
         }
 
-        if (orrN == sum) {
-            System.out.println(orrN + " is an Armstrong number.");
+        if (orN == sum) {
+            System.out.println(orN + " is an Armstrong number.");
         } else {
-            System.out.println(orrN + " is not an Armstrong number.");
+            System.out.println(orN + " is not an Armstrong number.");
         }
     }
 }
