@@ -1,4 +1,4 @@
-// rable of a number
+// table of a number
 
 import java.util.*;
 
