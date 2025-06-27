@@ -1,8 +1,6 @@
 // Swapping of two Variables using a third variable
 
-
 import java.util.*;
-
 public class prog13 {
 
     public static void main(String[] args) {
@@ -24,4 +22,10 @@ public class prog13 {
         sc.close();
 
     }
+
 }
+// Output (example):
+// Enter value for A: 5
+// Enter value for B: 7
+// Before Swap: A = 5, B = 7
+// After Swap: A = 7, B = 5
