@@ -22,4 +22,10 @@ public class prog14 {
         System.out.println("After Swap: A = " + a + ", B = " + b);
         sc.close();
     }
+
 }
+// Output (example):
+// Enter value for A: 3
+// Enter value for B: 8
+// Before Swap: A = 3, B = 8
+// After Swap: A = 8, B = 3
