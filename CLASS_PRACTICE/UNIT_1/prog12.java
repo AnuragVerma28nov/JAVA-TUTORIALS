@@ -1,7 +1,6 @@
 // program to calculate the total marks and percentage of 5 subjects
 
 import java.util.*;
-
 public class prog12 {
 
     public static void main(String[] args) {
@@ -29,3 +28,11 @@ public class prog12 {
         sc.close();
     }
 }
+// Output (example):
+// Enter marks for Subject 1: 80
+// Enter marks for Subject 2: 75
+// Enter marks for Subject 3: 90
+// Enter marks for Subject 4: 85
+// Enter marks for Subject 5: 70
+// Total Marks: 400.0
+// Percentage: 80.0%
