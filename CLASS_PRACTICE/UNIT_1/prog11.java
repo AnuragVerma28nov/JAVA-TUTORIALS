@@ -1,4 +1,4 @@
-// addtion of two numbers
+// addition of two numbers input by user
 
 import java.util.*;
 
@@ -19,4 +19,9 @@ public class prog11 {
 
         sc.close();
     }
+
 }
+// Output:
+// Enter first number: 5
+// Enter second number: 7
+// The sum of 5 and 7 is: 12
