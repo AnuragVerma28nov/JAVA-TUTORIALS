@@ -15,4 +15,8 @@ public class prog15 {
         System.out.println("Sum of first " + n + " numbers: " + sum);
         sc.close();
     }
+
 }
+// Output (example):
+// Enter a number: 5
+// Sum of first 5 numbers: 15
