@@ -20,4 +20,12 @@ public class prog16 {
         }
         sc.close();
     }
+
 }
+// Output (example):
+// Enter a number: -5
+// -5 is negative.
+// Enter a number: 0
+// Number is zero.
+// Enter a number: 7
+// 7 is positive.
