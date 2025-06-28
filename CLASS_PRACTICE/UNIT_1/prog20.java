@@ -19,4 +19,10 @@ public class prog20 {
             sc.close();
         }
     }
+
 }
+// Output (example):
+// Enter a number: 5
+// Factorial of 5 : 120
+// Enter a number: -3
+// Factorial of Negative number not Exist.
