@@ -22,4 +22,10 @@ public class prog18 {
         }
         sc.close(); 
     }
+
 }
+// Output (example):
+// Enter a number: 121
+// 121 is palindrome number.
+// Enter a number: 123
+// 123 is not palindrome number.
