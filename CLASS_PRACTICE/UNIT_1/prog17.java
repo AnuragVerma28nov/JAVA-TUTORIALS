@@ -17,4 +17,8 @@ public class prog17 {
         System.out.println("Reverse Number: " + r);
         sc.close(); 
     }
+
 }
+// Output (example):
+// Enter a number: 1234
+// Reverse Number: 4321
