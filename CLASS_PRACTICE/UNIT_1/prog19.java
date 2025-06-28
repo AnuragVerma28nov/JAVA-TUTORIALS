@@ -26,4 +26,10 @@ public class prog19 {
             System.out.println(orN + " is not an Armstrong number.");
         }
     }
+
 }
+// Output (example):
+// Enter a number: 153
+// 153 is an Armstrong number.
+// Enter a number: 123
+// 123 is not an Armstrong number.
