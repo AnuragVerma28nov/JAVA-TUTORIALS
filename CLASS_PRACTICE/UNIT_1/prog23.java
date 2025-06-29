@@ -34,4 +34,10 @@ public class prog23 {
                 System.out.println("Invalid day number!");
         }
     }
+
 }
+// Output (example):
+// Enter day number (1-7): 3
+// Wednesday
+// Enter day number (1-7): 9
+// Invalid day number!
