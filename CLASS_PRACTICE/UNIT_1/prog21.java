@@ -10,11 +10,17 @@ public class prog21 {
         System.out.print("Enter first number: ");
         int num = sc.nextInt();
 
-        System.out.println("Post increment: " + num++);
-        System.out.println("Pre increment: " + ++num);
-        System.out.println("Post decrement: " + num--);
-        System.out.println("Pre decrement: " + --num);
+        System.out.println("Post increment: " + num++);// Displays the value before incrementing
+        System.out.println("Pre increment: " + ++num);// Displays the value after incrementing
+        System.out.println("Post decrement: " + num--);// Displays the value before decrementing
+        System.out.println("Pre decrement: " + --num);// Displays the value after decrementing
 
         sc.close();
     }
 }
+// Output (example):
+// Enter first number: 5
+// Post increment: 5
+// Pre increment: 7
+// Post decrement: 7
+// Pre decrement: 5
