@@ -12,10 +12,14 @@ public class prog22 {
         System.err.print("Enter a number: ");
         int m = sc.nextInt();
 
-        int g = (n > m) ? n : m;
+        int g = (n > m) ? n : m; // Ternary operator to find the greater number
 
         System.err.print("Greater number:" + g);
         sc.close();
 
     }
 }
+// Output (example):
+// Enter a number: 5
+// Enter a number: 7
+// Greater number:7
