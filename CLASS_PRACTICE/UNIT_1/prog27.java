@@ -9,3 +9,7 @@ public class prog27 {
         // sc.close();
     }
 }
+// Output (example):
+// Enter your string: (no input, uses command line arguments)
+// Your frist argument: Hello
+// Your frist argument: World
