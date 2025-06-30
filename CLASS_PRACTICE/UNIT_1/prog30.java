@@ -1,3 +1,7 @@
+// oops-inheritance
+// Inheritance is a fundamental concept in object-oriented programming that allows a new class (subclass or derived class) to inherit properties 
+// and behaviors (fields and methods) from an existing class (superclass or base class). 
+
 class Animal {
   public void animalSound() {
     System.out.println("The animal makes a sound");
@@ -27,3 +31,8 @@ public class prog30 {
     myDog.animalSound();
   }
 }
+
+// Output:
+// The animal makes a sound
+// The cat says: mew mew
+// The dog says: bow wow
