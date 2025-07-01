@@ -1,6 +1,5 @@
 // use of final keyword in main class prog8
 
-
 public class prog8 {
 
     public static void main(String[] args) {
