@@ -1,7 +1,5 @@
 // creating object within main class prog4 and calling static and public methods
 
-package UNIT_1;
-
 public class prog4 {
     static void myStaticMethod() {
         System.out.println("This is a static method.");
