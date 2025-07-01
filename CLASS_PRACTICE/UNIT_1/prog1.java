@@ -1,7 +1,5 @@
 // my first java program
 
-package UNIT_1;
-
 public class prog1 {
 
     public static void main(String[] args) {
