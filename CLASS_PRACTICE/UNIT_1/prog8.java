@@ -1,6 +1,5 @@
 // use of final keyword in main class prog8
 
-package UNIT_1;
 
 public class prog8 {
 
