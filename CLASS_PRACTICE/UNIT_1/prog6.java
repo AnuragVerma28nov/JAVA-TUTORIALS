@@ -1,8 +1,6 @@
 // use of private method in subclass pack 
 // creating object of subclass pack in main class prog6 and calling private method
 
-package UNIT_1;
-
 class pack {
     private void display() {
         System.out.println("hello World!");
