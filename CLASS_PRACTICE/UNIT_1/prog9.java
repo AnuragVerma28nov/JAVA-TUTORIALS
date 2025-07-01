@@ -1,6 +1,8 @@
 // use of final method in a subclass CSE 
 // creating object of subclass CSE in main class prog9 and calling final method
 
+package UNIT_1;
+
 class CSE {
     final void display() {
         System.out.println("This is a final method in class CSE.");
