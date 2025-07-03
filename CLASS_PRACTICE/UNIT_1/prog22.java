@@ -19,7 +19,7 @@ public class prog22 {
 
     }
 }
-// Output (example):
+// Output:
 // Enter a number: 5
 // Enter a number: 7
 // Greater number:7
