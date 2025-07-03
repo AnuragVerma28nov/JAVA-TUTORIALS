@@ -18,7 +18,7 @@ public class prog21 {
         sc.close();
     }
 }
-// Output (example):
+// Output:
 // Enter first number: 5
 // Post increment: 5
 // Pre increment: 7
