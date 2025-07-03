@@ -22,7 +22,7 @@ public class prog16 {
     }
 
 }
-// Output (example):
+// Output:
 // Enter a number: -5
 // -5 is negative.
 // Enter a number: 0
