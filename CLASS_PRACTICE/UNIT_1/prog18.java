@@ -24,7 +24,7 @@ public class prog18 {
     }
 
 }
-// Output (example):
+// Output:
 // Enter a number: 121
 // 121 is palindrome number.
 // Enter a number: 123
