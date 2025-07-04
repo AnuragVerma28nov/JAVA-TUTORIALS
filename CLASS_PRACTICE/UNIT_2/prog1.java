@@ -1,6 +1,9 @@
+// ArithmeticException Example in Java         
+
 package UNIT_2;
 
-public class prog1 {
+public class prog_1 {
+    
     public static void main(String[] args) {
         try {
             int a = 10;
@@ -10,6 +13,7 @@ public class prog1 {
         } catch (ArithmeticException e) {
             System.out.println("ArithmeticException caught: Division by zero is not allowed.");
         }
+        System.out.println("Rest of the code.");
     }
 }
 // Output:
