@@ -28,7 +28,7 @@ public class prog19 {
     }
 
 }
-// Output (example):
+// Output:
 // Enter a number: 153
 // 153 is an Armstrong number.
 // Enter a number: 123
