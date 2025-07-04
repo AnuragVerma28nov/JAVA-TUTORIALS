@@ -19,6 +19,6 @@ public class prog17 {
     }
 
 }
-// Output (example):
+// Output:
 // Enter a number: 1234
 // Reverse Number: 4321
