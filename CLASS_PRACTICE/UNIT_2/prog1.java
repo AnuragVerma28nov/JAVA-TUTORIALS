@@ -12,3 +12,5 @@ public class prog1 {
         }
     }
 }
+// Output:
+// ArithmeticException caught: Division by zero is not allowed.
