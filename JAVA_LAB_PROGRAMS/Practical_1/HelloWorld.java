@@ -7,7 +7,6 @@ public class HelloWorld {  // Driver Class
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Taking user inputs
         System.out.print("Enter your name: ");
         String name = scanner.nextLine();
 
@@ -16,7 +15,7 @@ public class HelloWorld {  // Driver Class
 
         System.out.print("Enter your year of study: ");
         int year = scanner.nextInt();
-        scanner.nextLine(); // Consume newline
+        scanner.nextLine(); 
 
         System.out.print("Enter your section: ");
         String section = scanner.nextLine();
@@ -32,7 +31,12 @@ public class HelloWorld {  // Driver Class
         System.out.println("Section: " + section);
         System.out.println("Roll Number: " + rollNo);
 
-        // Closing scanner
         scanner.close();
     }
 }
+// Output:
+// Enter your name: Anurag
+// Enter your department: Computer Science
+// Enter your year of study: 2
+// Enter your section: A
+// Enter your roll number: 1
