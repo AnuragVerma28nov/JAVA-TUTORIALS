@@ -11,8 +11,9 @@ public class prog2 {
         } catch (ArrayIndexOutOfBoundsException e) {
             System.out.println("ArrayIndexOutOfBoundsException caught: Invalid array index.");
         }
+        System.out.println("Rest of code. Program continues...");
     }
 }
 // Output:
 // ArrayIndexOutOfBoundsException caught: Invalid array index.
-    
+// Rest of code. Program continues...
