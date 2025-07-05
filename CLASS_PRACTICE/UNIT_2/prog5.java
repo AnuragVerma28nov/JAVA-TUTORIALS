@@ -13,6 +13,7 @@ public class prog5 {
             System.out.println("Result: " + result);
         } catch (ArithmeticException e) { // This catch block will handle ArithmeticException
             System.out.println("ArithmeticException caught: " + e.getMessage());
+            System.out.println("Code inside catch block executed.");
         }
         finally {
             System.out.println("This finally block always executes.");
@@ -24,5 +25,6 @@ public class prog5 {
 // Output:
 // Inside try block.
 // ArithmeticException caught: / by zero
+// Code inside catch block executed.
 // This finally block always executes.
 // Rest of code. Program continues...
