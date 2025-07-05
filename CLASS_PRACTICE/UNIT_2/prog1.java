@@ -2,7 +2,7 @@
 
 package UNIT_2;
 
-public class prog_1 {
+public class prog1 {
     
     public static void main(String[] args) {
         try {
@@ -13,8 +13,13 @@ public class prog_1 {
         } catch (ArithmeticException e) {
             System.out.println("ArithmeticException caught: Division by zero is not allowed.");
         }
+        finally {
+            System.out.println("This finally block always executes.");
+        }
         System.out.println("Rest of the code.");
     }
 }
 // Output:
 // ArithmeticException caught: Division by zero is not allowed.
+// This finally block always executes.
+// Rest of the code.
