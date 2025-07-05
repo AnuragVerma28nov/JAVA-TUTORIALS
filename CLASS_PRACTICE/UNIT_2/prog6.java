@@ -3,7 +3,7 @@
 package UNIT_2;
 
 public class prog6 {
-    public static void checkNum(int num) {
+    public static void checkNum(int num) { // Method to check if the number is positive
         if (num < 0) {
             throw new IllegalArgumentException("Number is negative: " + num);
         } else {
@@ -14,6 +14,7 @@ public class prog6 {
     public static void main(String[] args) {
         prog6.checkNum(-5); // This will throw an exception
         System.out.println("Rest of code. Program continues...");
+       
     }
 }
 
