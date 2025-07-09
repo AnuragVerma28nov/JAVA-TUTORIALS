@@ -1,4 +1,4 @@
-# UNIT_1 Java Programs
+# UNIT_1 Java Program
 
 This folder contains basic Java programs for learning and practice. Below is a short description of each file:
 
