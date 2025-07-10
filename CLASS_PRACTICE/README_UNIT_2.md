@@ -19,7 +19,7 @@ This folder contains basic Java programs for learning and practice. Below is a s
 -prog13.java: Problem in inter-thread communication in Java.
 -prog14.java: Solution for inter-thread communication problem in Java
 -prog15.java: Print the priority of main thread
--prog16a.java: Printing the priority of the main thread in Java and set its new priority
+-prog16a.java: Printing the priority of the main thread in Java and set its new priority.
 -prog16b.java: Printing the priority of the child thread in Java and set its new priority.
 
 
