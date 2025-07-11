@@ -6,7 +6,7 @@ This repository contains solutions for Java practicals covering core Java concep
 
 ## Practicals Overview
 
-### 1. Write and Execute Java Program using Java Compiler and Eclipse Platform
+### 1. Write and Execute Java Program using Java Compiler and Eclipse Platform.
 - Learn to set up Java in Eclipse and compile/run basic Java programs.
 
 ### 2. Create Simple Java Program using Command Line Argument
