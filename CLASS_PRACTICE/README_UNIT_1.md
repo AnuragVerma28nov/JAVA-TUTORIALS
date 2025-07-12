@@ -4,7 +4,7 @@ This folder contains basic Java programs for learning and practice. Below is a s
 
 ```
 -prog1.java: Print a variable and a message (Hello World).
--prog2.java: Create object in main class and print variable
+-prog2.java: Create object in main class and print variable.
 -prog3.java: Create object of another class and print variable
 -prog4.java: Call static and public methods
 -prog5.java: Call public method from another class
