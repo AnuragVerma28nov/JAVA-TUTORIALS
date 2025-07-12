@@ -7,3 +7,6 @@ public class prog2 {
         System.out.println(obj.x); 
     }
 }
+
+// Output:
+// 10
