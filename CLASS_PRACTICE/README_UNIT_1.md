@@ -13,7 +13,7 @@ This folder contains basic Java programs for learning and practice. Below is a s
 -prog8.java: Use of final keyword
 -prog9.java: Use of final method in a subclass CSE 
 -prog10.java: Use of final class and method
--prog11.java: Addition of two numbers (user input)
+-prog11.java: Addition of two numbers (user input).
 -prog12.java: Calculate total marks and percentage
 -prog13.java: Swap two variables using third variable
 -prog14.java: Swap two variables without third variable
