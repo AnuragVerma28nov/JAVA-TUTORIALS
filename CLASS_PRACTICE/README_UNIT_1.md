@@ -7,7 +7,7 @@ This folder contains basic Java programs for learning and practice. Below is a s
 -prog2.java: Create object in main class and print variable.
 -prog3.java: Create object of another class and print variable.
 -prog4.java: Call static and public methods.
--prog5.java: Call public method from another class
+-prog5.java: Call public method from another class.
 -prog6.java: Access modifier (private method demonstration)
 -prog7.java: Access modifier (protected method demonstration)
 -prog8.java: Use of final keyword
