@@ -11,7 +11,7 @@ This folder contains basic Java programs for learning and practice. Below is a s
 -prog6.java: Access modifier (private method demonstration).
 -prog7.java: Access modifier (protected method demonstration).
 -prog8.java: Use of final keyword.
--prog9.java: Use of final method in a subclass CSE 
+-prog9.java: Use of final method in a subclass CSE.
 -prog10.java: Use of final class and method
 -prog11.java: Addition of two numbers (user input).
 -prog12.java: Calculate total marks and percentage
