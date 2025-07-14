@@ -9,7 +9,7 @@ This folder contains basic Java programs for learning and practice. Below is a s
 -prog4.java: Call static and public methods.
 -prog5.java: Call public method from another class.
 -prog6.java: Access modifier (private method demonstration).
--prog7.java: Access modifier (protected method demonstration)
+-prog7.java: Access modifier (protected method demonstration).
 -prog8.java: Use of final keyword
 -prog9.java: Use of final method in a subclass CSE 
 -prog10.java: Use of final class and method
