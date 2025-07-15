@@ -6,7 +6,7 @@ This folder contains basic Java programs for learning and practice. Below is a s
 -prog1.java: ArithmeticException Example in Java.
 -prog2.java: ArrayIndexOutOfBoundsException Example in Java. 
 -prog3.java: When an exception doesn't occur, the program continues to run normally.
--prog4.java: When an exception occur but not handled by catch block 
+-prog4.java: When an exception occur but not handled by catch block.
 -prog5.java: When an exception occur and handled by catch block 
 -prog6.java: Example of Throw in Java
 -prog7.java: Example of Throws in Java
