@@ -36,7 +36,7 @@ This folder contains basic Java programs for learning and practice. Below is a s
 -prog31.java: Abstraction example
 -prog32.java: Interface example
 -prog33/: User-defined package and import example
--prog34.java: Change case of alphabet (upper/lower)
+-prog34.java: Change case of alphabet (upper/lower).
 -prog35.java: Static import example.
 
 
