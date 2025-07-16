@@ -15,7 +15,7 @@ This folder contains basic Java programs for learning and practice. Below is a s
 -prog10.java: Use of final class and method.
 -prog11.java: Addition of two numbers (user input).
 -prog12.java: Calculate total marks and percentage.
--prog13.java: Swap two variables using third variable
+-prog13.java: Swap two variables using third variable.
 -prog14.java: Swap two variables without third variable
 -prog15.java: Print sum of first N numbers
 -prog16.java: Check if number is positive, negative, or zero
