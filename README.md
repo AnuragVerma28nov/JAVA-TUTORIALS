@@ -2,8 +2,5 @@
 
 
 
-## Author
-------
-
-* Anurag Verma
+## Author - Anurag Verma
 
