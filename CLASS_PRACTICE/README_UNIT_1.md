@@ -39,6 +39,6 @@ This folder contains basic Java programs for learning and practice. Below is a s
 -prog34.java: Change case of alphabet (upper/lower).
 -prog35.java: Static import example.
 
-# Author - Anurag Verma
+## Author - Anurag Verma
 
 
