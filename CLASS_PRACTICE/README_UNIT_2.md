@@ -13,7 +13,7 @@ This folder contains basic Java programs for learning and practice. Below is a s
 -prog8.java: Write content to a file output.txt using BufferedWriter
 -prog9.java: Read content from a file output.txt using BufferedReader
 -prog10.java: using OutputStreamWriter to write lines of text to a file named output_1.txt.
--prog11.java: Program to demonstrate the use of threads
+-prog11.java: Program to demonstrate the use of threads.
 -prog12(a).java: Program for multiple threads in Java.
 -prog12(b).java: Program for multiple threads in Java.
 -prog13.java: Problem in inter-thread communication in Java.
