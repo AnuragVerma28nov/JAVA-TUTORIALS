@@ -21,7 +21,7 @@ This folder contains basic Java programs for learning and practice. Below is a s
 -prog16.java: Check if number is positive, negative, or zero
 -prog17.java: Reverse a number.
 -prog18.java: Check palindrome number
--prog19.java: Check Armstrong number
+-prog19.java: Check Armstrong number.
 -prog20.java: Calculate factorial
 -prog21.java: Increment and decrement operators
 -prog22.java: Use of ternary operator
