@@ -22,7 +22,7 @@ This folder contains basic Java programs for learning and practice. Below is a s
 -prog17.java: Reverse a number.
 -prog18.java: Check palindrome number
 -prog19.java: Check Armstrong number.
--prog20.java: Calculate factorial
+-prog20.java: Calculate factorial.
 -prog21.java: Increment and decrement operators
 -prog22.java: Use of ternary operator
 -prog23.java: Print day name using switch case
