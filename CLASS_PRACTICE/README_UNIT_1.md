@@ -19,7 +19,7 @@ This folder contains basic Java programs for learning and practice. Below is a s
 -prog14.java: Swap two variables without third variable
 -prog15.java: Print sum of first N numbers
 -prog16.java: Check if number is positive, negative, or zero
--prog17.java: Reverse a number
+-prog17.java: Reverse a number.
 -prog18.java: Check palindrome number
 -prog19.java: Check Armstrong number
 -prog20.java: Calculate factorial
