@@ -26,7 +26,7 @@ This folder contains basic Java programs for learning and practice. Below is a s
 -prog21.java: Yields Statement Example
 -prog22.java: Text Block Example 1
 -prog23.java: Text Block Example 2
--prog24.java: Record in Java Example
+-prog24.java: Record in Java Example.
 -prog25.java: Sealed Classes Example.
 
 
