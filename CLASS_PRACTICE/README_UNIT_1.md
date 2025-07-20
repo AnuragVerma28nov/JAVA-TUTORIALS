@@ -24,7 +24,7 @@ This folder contains basic Java programs for learning and practice. Below is a s
 -prog19.java: Check Armstrong number.
 -prog20.java: Calculate factorial.
 -prog21.java: Increment and decrement operators
--prog22.java: Use of ternary operator
+-prog22.java: Use of ternary operator.
 -prog23.java: Print day name using switch case
 -prog24.java: Read and print a string
 -prog25.java: Encapsulation (getter/setter)
