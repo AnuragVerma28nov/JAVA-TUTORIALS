@@ -6,7 +6,7 @@ This folder contains basic Java programs for learning and practice. Below is a s
 -prog1.java: Abstract class.
 -prog2.java: Interface and its implementation. 
 -prog3.java: Functioal Interface and its implementation.
--prog4.java: Anonymous functions 
+-prog4.java: Anonymous functions.
 -prog5.java: Lamda expressions
 -prog6.java: Square Of number using Lamda expressions and Functional Interface
 -prog7.java: Non-Static Methods using Method Reference
