@@ -33,7 +33,7 @@ This repository contains solutions for Java practicals covering core Java concep
 ### 9. Test RESTful Web Service using Spring Boot
 - Implements and tests REST APIs using Spring Boot.
 
-### 10. Test Frontend Web Application with Spring Boot
+### 10. Test Frontend Web Application with Spring Boot.
 - Integrates and tests a frontend application with a Spring Boot backend.
 
 ---
