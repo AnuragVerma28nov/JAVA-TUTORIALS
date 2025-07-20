@@ -9,7 +9,7 @@ This repository contains solutions for Java practicals covering core Java concep
 ### 1. Write and Execute Java Program using Java Compiler and Eclipse Platform.
 - Learn to set up Java in Eclipse and compile/run basic Java programs.
 
-### 2. Create Simple Java Program using Command Line Argument
+### 2. Create Simple Java Program using Command Line Argument.
 - Demonstrates how to accept and process command line arguments in Java.
 
 ### 3. Understand OOP Concepts and Basics of Java Programming
