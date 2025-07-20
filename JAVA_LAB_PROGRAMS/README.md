@@ -12,7 +12,7 @@ This repository contains solutions for Java practicals covering core Java concep
 ### 2. Create Simple Java Program using Command Line Argument.
 - Demonstrates how to accept and process command line arguments in Java.
 
-### 3. Understand OOP Concepts and Basics of Java Programming
+### 3. Understand OOP Concepts and Basics of Java Programming.
 - Covers classes, objects, encapsulation, inheritance, and polymorphism.
 
 ### 4. Create Java Programs using Inheritance and Polymorphism
