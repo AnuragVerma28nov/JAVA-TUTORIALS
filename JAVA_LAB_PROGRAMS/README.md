@@ -18,7 +18,7 @@ This repository contains solutions for Java practicals covering core Java concep
 ### 4. Create Java Programs using Inheritance and Polymorphism
 - Implements real-world examples using inheritance and method overriding.
 
-### 5. Implement Error-Handling Techniques using Exception Handling and Multithreading
+### 5. Implement Error-Handling Techniques using Exception Handling and Multithreading.
 - Shows how to handle exceptions and create multithreaded applications.
 
 ### 6. Create Java Program with the Use of Java Packages
