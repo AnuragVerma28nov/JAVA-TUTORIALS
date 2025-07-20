@@ -33,7 +33,7 @@ This folder contains basic Java programs for learning and practice. Below is a s
 -prog28.java: Constructor example
 -prog29.java: Method overloading (area calculation)
 -prog30.java: Inheritance and method overriding
--prog31.java: Abstraction example
+-prog31.java: Abstraction example.
 -prog32.java: Interface example.
 -prog33/: User-defined package and import example.
 -prog34.java: Change case of alphabet (upper/lower).
