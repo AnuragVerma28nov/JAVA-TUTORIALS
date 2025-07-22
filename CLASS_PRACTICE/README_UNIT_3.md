@@ -22,7 +22,7 @@ This folder contains basic Java programs for learning and practice. Below is a s
 -prog17.java: Diamond Operators Example
 -prog18.java: Local Variable Type Inference Example
 -prog19.java: Switch case  Example 1
--prog20.java: Switch case  Example 2
+-prog20.java: Switch case  Example 2.
 -prog21.java: Yields Statement Example.
 -prog22.java: Text Block Example 1.
 -prog23.java: Text Block Example 2.
