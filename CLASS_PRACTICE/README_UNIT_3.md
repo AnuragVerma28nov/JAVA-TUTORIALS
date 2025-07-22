@@ -14,7 +14,7 @@ This folder contains basic Java programs for learning and practice. Below is a s
 -prog9.java: Java Streams to perform operations like mapping, filtering, and sorting on collections. 
 -prog10.java: Base 64 Encoding and Decoding 
 -prog11.java: forEach loop 
--prog12.java: Simple Annotation Example
+-prog12.java: Simple Annotation Example.
 -prog13.java: Type Annotation Example
 -prog14.java: Repeating Annotation Example
 -prog15.java: Repeatable Annotation Example
