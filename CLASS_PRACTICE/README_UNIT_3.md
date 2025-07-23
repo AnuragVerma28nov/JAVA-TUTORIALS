@@ -12,7 +12,7 @@ This folder contains basic Java programs for learning and practice. Below is a s
 -prog7.java: Non-Static Methods using Method Reference
 -prog8.java: Static Methods using Method Reference
 -prog9.java: Java Streams to perform operations like mapping, filtering, and sorting on collections. 
--prog10.java: Base 64 Encoding and Decoding 
+-prog10.java: Base 64 Encoding and Decoding.
 -prog11.java: forEach loop.
 -prog12.java: Simple Annotation Example.
 -prog13.java: Type Annotation Example
