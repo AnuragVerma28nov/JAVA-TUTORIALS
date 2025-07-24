@@ -15,7 +15,7 @@ This repository contains solutions for Java practicals covering core Java concep
 ### 3. Understand OOP Concepts and Basics of Java Programming.
 - Covers classes, objects, encapsulation, inheritance, and polymorphism.
 
-### 4. Create Java Programs using Inheritance and Polymorphism
+### 4. Create Java Programs using Inheritance and Polymorphism.
 - Implements real-world examples using inheritance and method overriding.
 
 ### 5. Implement Error-Handling Techniques using Exception Handling and Multithreading.
