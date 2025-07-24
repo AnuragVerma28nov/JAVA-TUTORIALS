@@ -72,5 +72,5 @@ This repository contains solutions for Java practicals covering core Java concep
 
 ## Author
 
-- Anurag Verma
+- Anurag Verma<br>
 Prepared for academic and industry-oriented Java learning.
