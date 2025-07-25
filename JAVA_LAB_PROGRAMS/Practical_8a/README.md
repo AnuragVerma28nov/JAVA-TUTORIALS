@@ -21,7 +21,7 @@ This is a simple **Hospital Management System** built using Java. The applicatio
 
 ## 📁 Project Structure
 
-HospitalManagementSystem/
+HospitalManagementSystem/<br>
 ├── HospitalManagementSystem.java
 └── README.md
 
