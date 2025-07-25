@@ -409,5 +409,112 @@ public class HospitalManagementSystem {
     }
 }
 
-// Output:
+// Output Example:
+
+// === Hospital Management System ===
+// 1. Patient Management
+// 2. Doctor Management
+// 3. Appointment Management
+// 4. Exit
+// Enter your choice: 1
+
+// === Patient Management ===
+// 1. Add Patient
+// 2. View Patients
+// 3. Search Patient
+// 4. Back to Main Menu
+// Enter your choice: 1
+
+// === Add New Patient ===
+// Enter Patient ID: P001
+// Enter Name: Alice Smith
+// Enter Age: 30
+// Enter Gender: Female
+// Enter Contact: 9876543210
+// Patient added successfully!
+
+// === Patient Management ===
+// 1. Add Patient
+// 2. View Patients
+// 3. Search Patient
+// 4. Back to Main Menu
+// Enter your choice: 4
+
+// === Hospital Management System ===
+// 1. Patient Management
+// 2. Doctor Management
+// 3. Appointment Management
+// 4. Exit
+// Enter your choice: 2
+
+// === Doctor Management ===
+// 1. Add Doctor
+// 2. View Doctors
+// 3. Search Doctor
+// 4. Back to Main Menu
+// Enter your choice: 1
+
+// === Add New Doctor ===
+// Enter Doctor ID: D001
+// Enter Name: Dr. John Doe
+// Enter Specialization: Cardiology
+// Enter Contact: 9123456780
+// Enter Schedule: Mon-Fri 10am-2pm
+// Doctor added successfully!
+
+// === Doctor Management ===
+// 1. Add Doctor
+// 2. View Doctors
+// 3. Search Doctor
+// 4. Back to Main Menu
+// Enter your choice: 4
+
+// === Hospital Management System ===
+// 1. Patient Management
+// 2. Doctor Management
+// 3. Appointment Management
+// 4. Exit
+// Enter your choice: 3
+
+// === Appointment Management ===
+// 1. Schedule Appointment
+// 2. View Appointments
+// 3. Search Appointment
+// 4. Back to Main Menu
+// Enter your choice: 1
+
+// === Schedule New Appointment ===
+// Enter Appointment ID: A001
+// Enter Patient ID: P001
+// Enter Doctor ID: D001
+// Enter Date (DD/MM/YYYY): 25/07/2025
+// Enter Time: 11:00 AM
+// Enter Description: Routine check-up
+// Appointment scheduled successfully!
+
+// === Appointment Management ===
+// 1. Schedule Appointment
+// 2. View Appointments
+// 3. Search Appointment
+// 4. Back to Main Menu
+// Enter your choice: 2
+
+// === Appointment List ===
+// ID: A001, Patient ID: P001, Doctor ID: D001, Date: 25/07/2025, Time: 11:00 AM, Description: Routine check-up
+
+// === Appointment Management ===
+// 1. Schedule Appointment
+// 2. View Appointments
+// 3. Search Appointment
+// 4. Back to Main Menu
+// Enter your choice: 4
+
+// === Hospital Management System ===
+// 1. Patient Management
+// 2. Doctor Management
+// 3. Appointment Management
+// 4. Exit
+// Enter your choice: 4
+// Exiting system. Goodbye!
+
 
