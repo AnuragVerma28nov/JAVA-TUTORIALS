@@ -410,8 +410,4 @@ public class HospitalManagementSystem {
 }
 
 // Output:
-// The program will run a console-based hospital management system allowing users to manage patients, doctors, and appointments.
-// Users can add, view, and search for patients and doctors, as well as schedule and manage appointments.
-// The system will prompt for user input and display relevant information based on the actions performed.
-// The output will be displayed in the console, showing success messages or error messages based on user actions.
-// The program will continue to run until the user chooses to exit.
+
