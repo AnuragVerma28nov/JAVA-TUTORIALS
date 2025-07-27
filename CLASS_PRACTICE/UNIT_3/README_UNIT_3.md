@@ -28,9 +28,12 @@ This folder contains basic Java programs for learning and practice. Below is a s
 -prog24.java: Record in Java Example.<br>
 -prog25.java: Sealed Classes Example.<br>
 
+## 📌 Usage
+  - Prepared for academic and industry-oriented Java learning.
+
 ## 🧑‍💻 Author
   - Anurag Verma
-  - Prepared for academic and industry-oriented Java learning.
+  - Year: 2025
 
 
 
