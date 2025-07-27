@@ -21,6 +21,9 @@ This folder contains basic Java programs for learning and practice. Below is a s
 -prog16a.java: Printing the priority of the main thread in Java and set its new priority.<br>
 -prog16b.java: Printing the priority of the child thread in Java and set its new priority.<br>
 
+## 📌 Usage
+  - Prepared for academic and industry-oriented Java learning.
+
 ## 🧑‍💻 Author
   - Anurag Verma
-  - Prepared for academic and industry-oriented Java learning.
+  - Year: 2025
