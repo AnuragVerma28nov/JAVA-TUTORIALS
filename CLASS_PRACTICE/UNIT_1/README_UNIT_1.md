@@ -38,6 +38,9 @@ This folder contains basic Java programs for learning and practice. Below is a s
 -prog34.java: Change case of alphabet (upper/lower).<br>
 -prog35.java: Static import example.<br>
 
+## 📌 Usage
+  - Prepared for academic and industry-oriented Java learning.
+
 ## 🧑‍💻 Author
   - Anurag Verma
-  - Prepared for academic and industry-oriented Java learning.
+  - Year: 2025
