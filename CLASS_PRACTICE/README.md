@@ -4,12 +4,12 @@ This repository contains practice files organized by academic units. Each folder
 
 ## 📚 Folder Structure
 
-CLASS_PRACTICE/
-├── UNIT_1/
-├── UNIT_2/
-├── UNIT_3/
-├── UNIT_4/
-└── UNIT_5/
+CLASS_PRACTICE/<br>
+├── UNIT_1/<br>
+├── UNIT_2/<br>
+├── UNIT_3/<br>
+├── UNIT_4/<br>
+└── UNIT_5/<br>
 
 
 ### 🔹 UNIT_1
