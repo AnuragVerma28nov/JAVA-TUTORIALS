@@ -2,8 +2,6 @@
 
 This folder contains basic Java programs for learning and practice. Below is a short description of each file:
 
----
-
 -prog1.java: Print a variable and a message (Hello World).<br>
 -prog2.java: Create object in main class and print variable.<br>
 -prog3.java: Create object of another class and print variable.<br>
