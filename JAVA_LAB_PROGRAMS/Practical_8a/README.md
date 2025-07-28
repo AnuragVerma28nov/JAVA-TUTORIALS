@@ -33,6 +33,13 @@ HospitalManagementSystem/<br>
 4. Exit
 Enter your choice: _
 
+---
+
+## 📌 Usage
+  - Prepared for academic and industry-oriented Java learning.
+
+---
+
 ## 🧑‍💻 Author
   - Anurag Verma
   - Year: 2025
