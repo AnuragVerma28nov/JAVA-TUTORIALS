@@ -1,50 +1,49 @@
-🏥 Hospital Management System
+# 🏥 Hospital Management System
 
 A modern, efficient Java-based Hospital Management System designed to streamline patient, doctor, and appointment management with secure file-based persistence.
 
-✨ Features-
+---
 
-👩‍⚕️ Patient Management
-✅ Add new patients with complete details
-🔍 View and search patient records
-📊 Maintain comprehensive patient profiles
-🩺 Doctor Management
-➕ Register new doctors with specialties
-👀 Browse doctor availability
-🔎 Find doctors by specialization
-📅 Appointment Scheduling
-🗓️ Book patient-doctor appointments
-👁️ View upcoming appointments
-🔍 Search appointment history
+## ✨ Features-
 
-# Compile the project
-javac src/*.java src/model/*.java src/service/*.java src/util/*.java
+👩‍⚕️ Patient Management<br>
+✅ Add new patients with complete details<br>
+🔍 View and search patient records<br>
+📊 Maintain comprehensive patient profiles<br>
+🩺 Doctor Management<br>
+➕ Register new doctors with specialties<br>
+👀 Browse doctor availability<br>
+🔎 Find doctors by specialization<br>
+📅 Appointment Scheduling<br>
+🗓️ Book patient-doctor appointments<br>
+👁️ View upcoming appointments<br>
+🔍 Search appointment history<br>
 
-# Run the application
-java -cp src Main
+---
 
-🗂️ Project Structure
-hospital-management/
-├── src/
-│   ├── model/            # Data models
-│   │   ├── Patient.java
-│   │   ├── Doctor.java
-│   │   └── Appointment.java
-│   ├── service/          # Business logic
-│   │   ├── PatientService.java
-│   │   ├── DoctorService.java
-│   │   └── AppointmentService.java
-│   ├── util/             # Utilities
-│   │   └── FileUtil.java
-│   └── Main.java         # Entry point
-├── data/                 # Data storage
-│   ├── patients.txt
-│   ├── doctors.txt
-│   └── appointments.txt
-└── README.md             # Documentation
+## 🗂️ Project Structure
+hospital-management/<br>
+├── src/<br>
+│   ├── model/            # Data models<br>
+│   │   ├── Patient.java<br>
+│   │   ├── Doctor.java<br>
+│   │   └── Appointment.java<br>
+│   ├── service/          # Business logic<br>
+│   │   ├── PatientService.java<br>
+│   │   ├── DoctorService.java<br>
+│   │   └── AppointmentService.java<br>
+│   ├── util/             # Utilities<br>
+│   │   └── FileUtil.java<br>
+│   └── Main.java         # Entry point<br>
+├── data/                 # Data storage<br>
+│   ├── patients.txt<br>
+│   ├── doctors.txt<br>
+│   └── appointments.txt<br>
+└── README.md             # Documentation<br>
 
+---
 
-🖥️Main Menu Options:
+## 🖥️ Main Menu Options:
 
 1. Patient Management
 2. Doctor Management
