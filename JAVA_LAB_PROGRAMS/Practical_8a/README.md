@@ -42,6 +42,6 @@ Enter your choice: _
 
 ## 🧑‍💻 Author
   - Anurag Verma
-  - Year: 2025
+  - Year: 2025<br>
 Thank you for visiting this repository!
 
