@@ -16,7 +16,7 @@ CLASS_PRACTICE/<br>
    - Contains introductory topics, basic syntax, Focuses on object-oriented concepts, methods, and Packages definitions.
 
 ### 🔹 UNIT_2
-   - Includes file handling, exception management, Input/Output Basics, Multithreading.
+   - Includes file handling, exception management, Input/Output Basics, Multithreading
 
 ### 🔹 UNIT_3
    - JAVA new features, foundational concepts, Annotations, StreamAPI.
