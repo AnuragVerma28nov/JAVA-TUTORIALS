@@ -13,7 +13,7 @@ CLASS_PRACTICE/<br>
 
 
 ### 🔹 UNIT_1
-   - Contains introductory topics, basic syntax, Focuses on object-oriented concepts, methods, and Packages definitions.
+   - Contains introductory topics, basic syntax, Focuses on object-oriented concepts, methods, and Packages definitions
 
 ### 🔹 UNIT_2
    - Includes file handling, exception management, Input/Output Basics, Multithreading
