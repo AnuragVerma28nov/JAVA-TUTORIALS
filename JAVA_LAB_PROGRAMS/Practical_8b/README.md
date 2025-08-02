@@ -22,6 +22,7 @@ A modern, efficient Java-based Hospital Management System designed to streamline
 ---
 
 ## 🗂️ Project Structure
+
 hospital-management/<br>
 ├── src/<br>
 │   ├── model/            # Data models<br>
@@ -59,7 +60,9 @@ hospital-management/<br>
 ---
 
 ## 🧑‍💻 Author
+
   - Anurag Verma
   - Year: 2025<br>
 Thank you for visiting this repository!
+
 
