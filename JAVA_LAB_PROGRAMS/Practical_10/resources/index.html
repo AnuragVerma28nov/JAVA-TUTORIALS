@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Spring Boot Web Test</title>
+</head>
+
+<body>
+    <h1>Greeting App</h1>
+    <input type="text" id="nameInput" placeholder="Enter your name">
+    <button onclick="fetchGreeting()">Greet</button>
+    <p id="greetingResult"></p>
+    <script>
+        function fetchGreeting() {
+            const name = document.getElementById("nameInput").value;
+            fetch(`/api/greet?name=${encodeURIComponent(name)}`)
+                .then(response => response.text())
+                .then(data => {
+                    document.getElementById("greetingResult").textContent = data;
+                });
+        } 
+    </script>
+</body>
+
+</html>
