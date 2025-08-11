@@ -78,4 +78,4 @@ This repository contains solutions for Java practicals covering core Java concep
 ## 🧑‍💻 Author
   - Anurag Verma
   - Year: 2025<br>
-Thank you for visiting this repository!l
+Thank you for visiting this repository!
