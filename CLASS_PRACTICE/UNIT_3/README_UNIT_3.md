@@ -34,7 +34,7 @@ This folder contains basic Java programs for learning and practice. Below is a s
 ## 🧑‍💻 Author
   - Anurag Verma
   - Year: 2025<br>
-Thank you for visiting this repository
+Thank you for visiting this repository!
 
 
 
