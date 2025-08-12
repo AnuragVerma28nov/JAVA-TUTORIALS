@@ -26,6 +26,6 @@ public class prog9 {
 }
 
 // Output:
-// [1, 4, 9, 16, 25]
+// [1, 4, 9, 16, 2]
 // [Anurag, Ashi, Ekta, Sumit]
 // [Anurag, Ashi]
