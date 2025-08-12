@@ -22,4 +22,4 @@ public class prog6 {
 
 // Output:
 // Enter a number: 5
-// Square of 5: 25
+// Square of 5: 2
