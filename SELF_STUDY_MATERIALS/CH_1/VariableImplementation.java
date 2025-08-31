@@ -15,7 +15,7 @@ public class VariableImplementation {
         double d = 56d;
         boolean b = true;
 
-        System.out.println("Byte " + age);
+        System.out.println("Byte " + age)
         System.out.println("Int " + n);
         System.out.println("Short " + m);
         System.out.println("Long " + o);
@@ -26,3 +26,4 @@ public class VariableImplementation {
 
     }
 }
+
