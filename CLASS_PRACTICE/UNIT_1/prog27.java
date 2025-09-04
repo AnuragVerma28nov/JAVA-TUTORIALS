@@ -12,5 +12,6 @@ public class prog27 {
 // Output (example):
 // Enter your string: (no input, uses command line arguments)
 // Your frist argument: Hello
-// Your frist argument: Worl
+// Your frist argument: World
+
 
