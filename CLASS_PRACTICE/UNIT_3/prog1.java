@@ -1,4 +1,4 @@
-// Abstract class 
+// Abstract clas
 
 package UNIT_3;
 
@@ -28,4 +28,5 @@ public class prog1 {
 
 // Output:
 // Display method implemented in ABC class.
+
 // This is a concrete method in an abstract class.
