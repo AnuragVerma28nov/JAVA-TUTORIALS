@@ -2,7 +2,7 @@
 
 This folder contains basic Java programs for learning and practice. Below is a short description of each file:
 
--prog1.java: ArithmeticException Example in Java.<br
+-prog1.java: ArithmeticException Example in Java.<br/>
 -prog2.java: ArrayIndexOutOfBoundsException Example in Java.<br> 
 -prog3.java: When an exception doesn't occur, the program continues to run normally.<br>
 -prog4.java: When an exception occur but not handled by catch block.<br>
@@ -28,4 +28,5 @@ This folder contains basic Java programs for learning and practice. Below is a s
   - Anurag Verma
   - Year: 2025<br>
 Thank you for visiting this repository!
+
 
