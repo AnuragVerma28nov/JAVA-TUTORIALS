@@ -1,6 +1,6 @@
 // Abstract class
 
-package UNIT_3;
+package UNIT_3
 
 abstract class abc { // Abstract class can have abstract methods
     abstract void display();
