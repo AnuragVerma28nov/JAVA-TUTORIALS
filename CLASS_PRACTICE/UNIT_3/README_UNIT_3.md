@@ -2,7 +2,7 @@
 
 This folder contains basic Java programs for learning and practice. Below is a short description of each file:
 
--prog1.java: Abstract class.<br
+-prog1.java: Abstract class.<br>
 -prog2.java: Interface and its implementation. <br>
 -prog3.java: Functioal Interface and its implementation.<br>
 -prog4.java: Anonymous functions.<br>
