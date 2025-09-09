@@ -1,6 +1,6 @@
 // Interface and its implementation 
 
-package UNIT_3;
+package UNIT_3
 
 interface abc {
    abstract void display();
