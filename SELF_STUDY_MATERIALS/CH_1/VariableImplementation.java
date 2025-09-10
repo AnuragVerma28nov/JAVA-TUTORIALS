@@ -22,10 +22,11 @@ public class VariableImplementation {
         System.out.println("char " + ch);
         System.out.println("Float "+f);
         System.out.println("Double " +d);
-        System.out.println("Boolean "+b)
+        System.out.println("Boolean "+b);
 
     }
 }
+
 
 
 
