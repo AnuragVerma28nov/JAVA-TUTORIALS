@@ -23,4 +23,5 @@ public class prog34 {
 // Enter an alphabet: a
 // Uppercase: A
 // Enter an alphabet: Z
-// Lowercase: z
+// Lowercase: 
+
