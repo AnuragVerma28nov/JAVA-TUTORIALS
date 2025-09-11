@@ -28,7 +28,7 @@ public class CalculatePercentage {
         System.out.println("Total Marks: " + total);
         System.out.println("Percentage: " + percentage + "%");
 
-        sc.close();
+        sc.close()
     }
 
 }
