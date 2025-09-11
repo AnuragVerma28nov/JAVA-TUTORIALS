@@ -1,5 +1,5 @@
 ## 🧑‍💻 Author
-  - Anurag Verma 
+  - Anurag Verm
   - Year: 2025  
 Thank you for visiting this repository!
 
