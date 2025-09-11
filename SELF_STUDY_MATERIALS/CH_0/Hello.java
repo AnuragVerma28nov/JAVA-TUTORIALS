@@ -1,7 +1,7 @@
 
 package chap1;
 
-public class Helo {
+public class Hello {
 
     public static void main(String[] args) {
 
