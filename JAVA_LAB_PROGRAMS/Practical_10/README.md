@@ -8,10 +8,11 @@
 3. When the page loads:<br>
    Greeting App <br>
    [ Input box ]  [Greet button]<br> 
-   If you enter Anurag and click Greet, the page shows: 
+   If you enter Anurag and click Greet, the page shows: <br>
    Hello, Anurag!
 
 4. Image:
 
    ![Greeting App Screenshot](GreetingApp.jpeg)
+
 
