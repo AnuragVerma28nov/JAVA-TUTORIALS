@@ -11,10 +11,11 @@ public class prog7 {
         System.out.println(a);
     }
     public static void main(String[] args) {
-        abc obj = new prog7()::show; // Using method reference to refer to the non-static method show
+        abc obj = new prog7()::show; // Using method reference to refer to the non-static method sho
         obj.display(5);
     }
 }
 
 // Output:
 // 5
+
