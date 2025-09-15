@@ -19,7 +19,7 @@ public class prog9 {
         List<String> filteredNames = names.stream()
                 .filter(s -> s.startsWith("A"))
                 .collect(Collectors.toList());
-        System.out.println(filteredNames)
+        System.out.println(filteredNames);
 
     }
 
@@ -30,3 +30,4 @@ public class prog9 {
 // [Anurag, Ashi, Ekta, Sumit]
 
 // [Anurag, Ashi]
+
