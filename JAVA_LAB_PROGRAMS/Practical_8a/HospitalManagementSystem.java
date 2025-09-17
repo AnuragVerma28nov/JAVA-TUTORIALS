@@ -23,7 +23,7 @@ class Patient {
     public String getGender() { return gender; }
     public String getContact() { return contact; }
 
-    @Overrid
+    @Override
     public String toString() {
         return "ID: " + id + ", Name: " + name + ", Age: " + age + 
                ", Gender: " + gender + ", Contact: " + contact;
@@ -516,6 +516,7 @@ public class HospitalManagementSystem {
 // 4. Exit
 // Enter your choice: 4
 // Exiting system. Goodbye!
+
 
 
 
