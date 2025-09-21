@@ -24,5 +24,6 @@ public class prog11 {
 // Output:
 // Enter first number: 5
 // Enter second number: 7
-// The sum of 5 and 7 is: 1
+// The sum of 5 and 7 is: 12
+
 
