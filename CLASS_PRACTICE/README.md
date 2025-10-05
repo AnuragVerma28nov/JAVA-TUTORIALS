@@ -2,7 +2,7 @@
 
 This repository contains practice files organized by academic units. Each folder corresponds to a different unit covered in class, with exercises, examples, and assignments designed to reinforce learning.
 
-## 📚 Folder Structur
+## 📚 Folder Structure
 
 CLASS_PRACTICE/<br>
 ├── UNIT_1/<br>
