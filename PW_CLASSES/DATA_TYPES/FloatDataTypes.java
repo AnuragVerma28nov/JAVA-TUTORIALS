@@ -11,3 +11,7 @@ public class FloatDataTypes {
         System.out.println("Double value: " + d);
     }
 }
+
+//Output:
+// Float value: 12.56
+// Double value: 45.78965
