@@ -13,3 +13,9 @@ public class IntegerDataTypes {
         System.out.println("Long value: " + l);
     }
 }
+
+//Output:
+// Byte value: 100
+// Short value: 20000
+// Int value: 500000
+// Long value: 10000000000
