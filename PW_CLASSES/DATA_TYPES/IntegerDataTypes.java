@@ -1,4 +1,4 @@
-package PW_CLASSES;
+
 
 public class IntegerDataTypes {
     public static void main(String[] args) {

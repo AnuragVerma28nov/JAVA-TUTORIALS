@@ -1,4 +1,4 @@
-package PW_CLASSES;
+
 
 public class FloatDataTypes {
     public static void main(String[] args) {
