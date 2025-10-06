@@ -7,3 +7,7 @@ public class BooleanDataType {
         System.out.println("Is fish tasty? " + isFishTasty);
     }
 }
+
+// Output:
+// Is Java fun? true
+// Is fish tasty? false

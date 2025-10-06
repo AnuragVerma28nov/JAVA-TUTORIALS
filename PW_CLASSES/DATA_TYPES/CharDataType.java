@@ -11,3 +11,8 @@ public class CharDataType {
         System.out.println("Symbol: " + symbol);
     }
 }
+
+// Output:
+// Letter: A
+// Digit: 9
+// Symbol: #
