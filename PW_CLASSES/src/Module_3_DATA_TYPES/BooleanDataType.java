@@ -1,4 +1,4 @@
-package DATA_TYPES;
+package Module_3_DATA_TYPES;
 
 public class BooleanDataType {
     public static void main(String[] args) {

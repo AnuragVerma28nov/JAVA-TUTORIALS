@@ -1,6 +1,6 @@
-package DATA_TYPES;
+package Module_3_DATA_TYPES;
 
-public class FloatDataTypes {
+public class RealNoDataTypes {
     public static void main(String[] args) {
         // Declaration and initialization of float and double
         float f = 12.56f;     // 'f' or 'F' is required for float literals

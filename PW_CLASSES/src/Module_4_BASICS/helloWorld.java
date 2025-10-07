@@ -1,4 +1,4 @@
-package BASICS;
+package Module_4_BASICS;
 
 public class helloWorld {
     public static void main(String[] args) {
