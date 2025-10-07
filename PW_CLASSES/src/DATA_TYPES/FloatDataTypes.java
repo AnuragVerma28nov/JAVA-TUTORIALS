@@ -1,3 +1,5 @@
+package DATA_TYPES;
+
 public class FloatDataTypes {
     public static void main(String[] args) {
         // Declaration and initialization of float and double

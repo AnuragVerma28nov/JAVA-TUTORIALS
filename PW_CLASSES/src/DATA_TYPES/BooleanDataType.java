@@ -1,3 +1,5 @@
+package DATA_TYPES;
+
 public class BooleanDataType {
     public static void main(String[] args) {
         boolean isJavaFun = true;

@@ -1,3 +1,5 @@
+package DATA_TYPES;
+
 public class IntegerDataTypes {
     public static void main(String[] args) {
         // Declaration and initialization of integer data types

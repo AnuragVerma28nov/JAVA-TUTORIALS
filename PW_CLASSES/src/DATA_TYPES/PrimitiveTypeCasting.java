@@ -1,3 +1,5 @@
+package DATA_TYPES;
+
 public class PrimitiveTypeCasting {
     public static void main(String[] args) {
 
