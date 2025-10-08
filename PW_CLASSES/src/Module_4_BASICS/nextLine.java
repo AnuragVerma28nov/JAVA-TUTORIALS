@@ -6,3 +6,7 @@ public class nextLine {
         System.out.print("\nHello, World!");
     }
 }
+
+// Output
+// Hello world!
+// Hello world!

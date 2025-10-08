@@ -9,3 +9,7 @@ public class variable {
         System.out.println(y);
     }
 }
+
+// Output
+//6
+//8
