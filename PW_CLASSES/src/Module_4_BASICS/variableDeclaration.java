@@ -1,6 +1,6 @@
 package Module_4_BASICS;
 
-public class variable {
+public class variableDeclaration {
     public static void main(String[] args) {
         int x; //Declaration
         x = 6; //Initialisation
