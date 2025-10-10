@@ -2,15 +2,15 @@ package Module_4_BASICS;
 
 import java.util.Scanner;
 
-public class typesCastingIntegerPartOfDoubleNum {
+public class typeCastingHalfOfANum {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number: ");
-        double a= sc.nextDouble();
-        System.out.print("Integer pat of "+a+": "+(int)a);
+        int a= sc.nextInt();
+        System.out.println("Half of "+a+": "+(double)a/2);
+
     }
 }
-
 //Output:
-//Enter a number: 3
-//Integer pat of 3.0: 3
+//Enter a number: 9
+//Half of 9: 4.5
