@@ -10,3 +10,7 @@ public class takingInputCharDataType {
         System.out.println((int)a);
     }
 }
+
+//Output:
+//Enter a Character: A
+//65
