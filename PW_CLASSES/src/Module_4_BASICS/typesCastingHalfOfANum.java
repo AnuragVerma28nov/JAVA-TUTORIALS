@@ -2,7 +2,7 @@ package Module_4_BASICS;
 
 import java.util.Scanner;
 
-public class halfOfANum {
+public class typesCastingHalfOfANum {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number: ");
