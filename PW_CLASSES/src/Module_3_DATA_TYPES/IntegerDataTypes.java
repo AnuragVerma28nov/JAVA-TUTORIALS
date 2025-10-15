@@ -1,4 +1,4 @@
-package Module_3_DATA_TYPES;
+package src.Module_3_DATA_TYPES;
 
 public class IntegerDataTypes {
     public static void main(String[] args) {

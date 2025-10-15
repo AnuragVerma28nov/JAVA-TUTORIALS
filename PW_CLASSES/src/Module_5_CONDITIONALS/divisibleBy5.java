@@ -1,4 +1,4 @@
-package Module_5_CONDITIONALS;
+package src.Module_5_CONDITIONALS;
 
 import java.util.Scanner;
 

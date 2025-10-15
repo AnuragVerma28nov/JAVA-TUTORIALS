@@ -1,4 +1,4 @@
-package Module_4_BASICS;
+package src.Module_4_BASICS;
 
 public class charDataType {
     public static void main(String[] args) {

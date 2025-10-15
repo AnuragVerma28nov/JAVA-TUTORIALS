@@ -1,4 +1,4 @@
-package Module_3_DATA_TYPES;
+package src.Module_3_DATA_TYPES;
 
 public class RealNoDataTypes {
     public static void main(String[] args) {
