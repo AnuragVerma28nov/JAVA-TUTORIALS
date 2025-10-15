@@ -17,7 +17,6 @@ public class evenOdd1 {
 
         sc.close();
 
-
     }
 }
 
