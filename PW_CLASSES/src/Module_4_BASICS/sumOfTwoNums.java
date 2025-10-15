@@ -16,6 +16,8 @@ public class sumOfTwoNums {
 
         System.out.print("Sum: " + sum);
 
+        sc.close();
+
     }
 }
 

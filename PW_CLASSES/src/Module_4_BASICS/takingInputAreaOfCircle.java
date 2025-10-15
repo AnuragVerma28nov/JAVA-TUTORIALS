@@ -6,9 +6,13 @@ public class takingInputAreaOfCircle {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a radius: ");
+
         double a = sc.nextDouble();
         double area = 3.14159 * a * a;
+
         System.out.println("Area of circle with radius " + a +": " + area);
+
+        sc.close();
     }
 }
 

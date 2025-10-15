@@ -5,10 +5,13 @@ import java.util.Scanner;
 public class typeCastingHalfOfANum {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+
         System.out.print("Enter a number: ");
         int a= sc.nextInt();
+
         System.out.println("Half of "+a+": "+(double)a/2);
 
+        sc.close();
     }
 }
 //Output:

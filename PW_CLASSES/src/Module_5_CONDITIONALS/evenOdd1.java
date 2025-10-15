@@ -16,6 +16,9 @@ public class evenOdd1 {
             System.out.print("Odd Number.");
         }
 
+        sc.close();
+
+
     }
 }
 

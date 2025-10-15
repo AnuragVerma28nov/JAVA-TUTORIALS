@@ -5,9 +5,13 @@ import java.util.Scanner;
 public class typeCastingIntegerPartOfDoubleNum {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+
         System.out.print("Enter a number: ");
         double a= sc.nextDouble();
+
         System.out.print("Integer pat of "+a+": "+(int)a);
+
+        sc.close();
     }
 }
 
