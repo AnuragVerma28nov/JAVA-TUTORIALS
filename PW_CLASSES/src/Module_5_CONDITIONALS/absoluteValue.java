@@ -2,23 +2,19 @@ package Module_5_CONDITIONALS;
 
 import java.util.Scanner;
 
-public class divisibleBy5 {
+public class absoluteValue {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter a number: ");
         int n = sc.nextInt();
 
-        if( n % 5 == 0){
-            System.out.print("Divisible by 5.");
+        if( n < 0){
+            System.out.print(-n);
         } else{
-            System.out.print("Not divisible by 5");
+            System.out.print(n);
         }
 
         sc.close();
     }
 }
-
-//Output:
-//Enter a number: 265
-//Divisible by 5.

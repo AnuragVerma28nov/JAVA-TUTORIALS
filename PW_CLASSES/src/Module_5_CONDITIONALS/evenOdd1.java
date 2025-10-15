@@ -11,8 +11,7 @@ public class evenOdd1 {
 
         if (n % 2 == 0){
             System.out.print("Even Number.");
-        }
-        if(n % 2 != 0) {
+        }if(n % 2 != 0) {
             System.out.print("Odd Number.");
         }
 
