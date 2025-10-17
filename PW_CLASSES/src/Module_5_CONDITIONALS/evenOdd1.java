@@ -2,7 +2,7 @@ package src.Module_5_CONDITIONALS;
 
 import java.util.Scanner;
 
-public class evenOdd1 {
+public class EvenOdd1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

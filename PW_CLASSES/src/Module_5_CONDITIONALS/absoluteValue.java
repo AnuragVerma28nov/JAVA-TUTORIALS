@@ -2,7 +2,7 @@ package src.Module_5_CONDITIONALS;
 
 import java.util.Scanner;
 
-public class absoluteValue {
+public class AbsoluteValue {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -18,3 +18,7 @@ public class absoluteValue {
         sc.close();
     }
 }
+
+//Output
+//Enter a number: -150
+//150

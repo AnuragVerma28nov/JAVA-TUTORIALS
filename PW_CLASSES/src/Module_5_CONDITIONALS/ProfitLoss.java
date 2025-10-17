@@ -25,3 +25,8 @@ public class ProfitLoss {
          sc.close();
     }
 }
+
+//Output
+//Enter cost price: 5000
+//Enter selling price: 6500
+//Total Profit: 1500.0
